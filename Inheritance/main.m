@@ -7,10 +7,14 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "Childern.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
+        Childern * children = [[Childern alloc] init];
+        [children meth];
+        [children print];
+        
         NSLog(@"Hello, World!");
     }
     return 0;
