@@ -7,11 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "Childern.h"
+#import "Children.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        Childern * children = [[Childern alloc] init];
+        Children * children = [[Children alloc] init];
         [children meth];
         [children print];
         

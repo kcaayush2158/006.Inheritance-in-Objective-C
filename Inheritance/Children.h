@@ -10,7 +10,7 @@
 #import "Mother.h"
 
 
-@interface Childern : Mother
+@interface Children : Mother
 -(void) print;
 
 @end

@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		D72A4C0F24615FB60062AAF8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D72A4C0E24615FB60062AAF8 /* main.m */; };
 		D72A4C1724615FD00062AAF8 /* Mother.m in Sources */ = {isa = PBXBuildFile; fileRef = D72A4C1624615FD00062AAF8 /* Mother.m */; };
-		D72A4C1A2461606B0062AAF8 /* Childern.m in Sources */ = {isa = PBXBuildFile; fileRef = D72A4C192461606B0062AAF8 /* Childern.m */; };
+		D72A4C1A2461606B0062AAF8 /* Children.m in Sources */ = {isa = PBXBuildFile; fileRef = D72A4C192461606B0062AAF8 /* Children.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,8 +29,8 @@
 		D72A4C0E24615FB60062AAF8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D72A4C1524615FD00062AAF8 /* Mother.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Mother.h; sourceTree = "<group>"; };
 		D72A4C1624615FD00062AAF8 /* Mother.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Mother.m; sourceTree = "<group>"; };
-		D72A4C182461606B0062AAF8 /* Childern.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Childern.h; sourceTree = "<group>"; };
-		D72A4C192461606B0062AAF8 /* Childern.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Childern.m; sourceTree = "<group>"; };
+		D72A4C182461606B0062AAF8 /* Children.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Children.h; sourceTree = "<group>"; };
+		D72A4C192461606B0062AAF8 /* Children.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Children.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,8 +66,8 @@
 				D72A4C0E24615FB60062AAF8 /* main.m */,
 				D72A4C1524615FD00062AAF8 /* Mother.h */,
 				D72A4C1624615FD00062AAF8 /* Mother.m */,
-				D72A4C182461606B0062AAF8 /* Childern.h */,
-				D72A4C192461606B0062AAF8 /* Childern.m */,
+				D72A4C182461606B0062AAF8 /* Children.h */,
+				D72A4C192461606B0062AAF8 /* Children.m */,
 			);
 			path = Inheritance;
 			sourceTree = "<group>";
@@ -130,7 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D72A4C1724615FD00062AAF8 /* Mother.m in Sources */,
-				D72A4C1A2461606B0062AAF8 /* Childern.m in Sources */,
+				D72A4C1A2461606B0062AAF8 /* Children.m in Sources */,
 				D72A4C0F24615FB60062AAF8 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

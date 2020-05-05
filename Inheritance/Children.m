@@ -6,9 +6,9 @@
 //  Copyright © 2020 Aayush Kc. All rights reserved.
 //
 
-#import "Childern.h"
+#import "Children.h"
 
-@implementation Childern
+@implementation Children
 
 -(void) print{
     NSLog(@"%i",a);
